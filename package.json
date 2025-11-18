@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<ВАШ-ЛОГИН-НА-GITHUB>.github.io/<НАЗВАНИЕ-РЕПОЗИТОРИЯ>",
+  "homepage": "https://olmer1983-ai.github.io/testenglish",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
