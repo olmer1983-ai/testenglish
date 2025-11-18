@@ -1,9 +1,9 @@
 {
-  "name": "english-testing-app",
+  "name": "testenglish-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/olmer1983-ai/testenglish",
+  "homepage": "https://olmer1983-ai.github.io/testenglish/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
