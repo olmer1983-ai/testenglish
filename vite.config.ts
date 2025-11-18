@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/testenglish/', // <-- ЗАМЕНИТЕ 'your-repo-name' НА НАЗВАНИЕ ВАШЕГО РЕПОЗИТОРИЯ
+  base: '/your-repo-name/', // <-- ЗАМЕНИТЕ 'your-repo-name' НА НАЗВАНИЕ ВАШЕГО РЕПОЗИТОРИЯ
 })

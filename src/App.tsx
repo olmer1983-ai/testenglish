@@ -25,7 +25,7 @@ const App: React.FC = () => {
         } else if (!currentUser) {
             setView('login');
         }
-    }, [currentUser, view]);
+    }, [currentUser]);
 
     const handleCreateTest = () => {
         setEditingTest(null);
